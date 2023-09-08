@@ -24,11 +24,3 @@ Best auc is given by LGBM model
 <img width="479" alt="image" src="https://user-images.githubusercontent.com/116758652/203846025-ab56c169-4469-45f8-a800-9c007617c421.png">
 
 
-
-Competition Link - https://www.kaggle.com/competitions/ieee-fraud-detection
-
-
-Application Link - https://ml-fraudtransaction-api.herokuapp.com/
-
-
-Medium Blog - https://medium.com/@iamarushigupta07/ieee-cis-fraud-detection-89dfeb10a104
